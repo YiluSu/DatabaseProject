@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+        .code {
+            font-family: monospace;
+        }
+</style>
+
+<head>
+	<title>Installation Guideline</title>
+</head>
+
+<body>
+
+<h1>Installation Guideline</h1>
+<p>To install the system, you need to do the following steps:</p>
+
+<h2>1. Download the source files</h2>
+<ul>
+	<li>Download the tar file.</li>
+	<li>Extract source code into the <span class="code">proj1</span> directory within your <span class="code">catalina/webapps</span>.</li>
+	<li>Move the <span class="code">catalina/webapps</span> file into <span class="code">catalina/webapps/WEB-INF/classes</span> directory.</li>
+</ul>
+
+<h2>2. Run Tomcat</h2>
+<ul>
+	<li><p>Open a terminal, and run <span class="code">starttomcat</span></p></li>
+</ul>
+
+<h2>3. Set up the initial database</h2>
+<ul>
+	<li><p>Start <span class="code">sqlplus</span> in a termial and login.</p></li>
+	<li><p>Set up and populate the initial database using script files, including the given <span class="code">setup.sql</span> and the submitted script file <span class="code">ProjectSetup.sql</span>, by running the following commands: </br>
+		<span class="code">@setup.sql</span> </br>
+		<span class="code">@ProjectSetup.sql</span></p></li>
+</ul>
+
+<h2>4. Connect to Oracle DB</h2>
+<ul>
+	<li><p>You need to connect to Oracle DB at <span class="code">http://HostName:PORT/proj/Connector.html</span> where <span class="code">HostName</span> is the machine name of the server the system installed on and <span class="code">PORT</span> is the port number that tomcat is running on.</p></li>
+	<li><p>Enter the Oracle ID and password, and click "CONNECT" button</p></li>
+</ul>
+
+</body>
+</html>
