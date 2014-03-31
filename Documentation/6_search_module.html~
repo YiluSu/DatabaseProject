@@ -1,0 +1,34 @@
+<html>
+
+<style type="text/css">
+        .code {
+            font-family: monospace;
+        }
+</style>
+
+<body>
+
+<head><title>Search Module</title></head>
+
+<h1>6. Search Module</h1>
+<p>This module will be used by all the registered users to search the database for a list of relevant radiology records and to view medical images with the zoom-in facility.</p>
+
+<div id="6.1">
+<h2>6.1 Search</h2>
+<p>Clicking the "<b>Search for radiology records</b>" hyperlink will directe the user to the search page.</p>
+<p>Enter the <b>Search keys</b> for the search. Search keys cannot be blank. If you have multiple search keys, use comma to separate them.</p>
+<p>User can optionally specify a <b>Time period</b> for the search.</p> 
+<p>Radiology records are defaultly ranked based on the following function with the largest first:</p>
+<ul><span class="code">Rank(record_id) = 6*frequency(patient_name) + 3*frequency(diagnosis) + frequency(description)</span></ul>
+<p>However, user can also indicate that the ranking to be based on timing, i.e., most-recent-first or most-recent-last, then the ranking shall be done accordingly.</p>
+</div>
+
+<div id="5.2">
+<h2>5.2 Upload Medical Images</h2>
+<p>In the medical images uploading page, click the "<b>Browse</b>" button to choose one or more medical images stored in the radiologist's local file system.</p>
+<p>After medicals images are chosen, click the "<b>UploadPic</b>" button to upload the images to the system database.</p>
+</div>
+
+</body>
+
+</html>

@@ -9,47 +9,43 @@
 
 <h1>Radiology Information System</h1>
 
-<h2>1. Installation</h2>
+<h2>	<a href="1_installation.html">1. Installation Guideline</a>	</h2>
 <ul>
-	<li><a href="1.1_installation.html">1.1 Installation Guideline</a></li>
+	<li><a href="1_installation.html#1.1">1.1 Download the source files</a></li>
+	<li><a href="1_installation.html#1.2">1.2 Run Tomcat</a></li>
+	<li><a href="1_installation.html#1.3">1.3 Set up the initial database</a></li>
+	<li><a href="1_installation.html#1.4">1.4 Connect to Oracle DB</a></li>
 </ul>
 
-<h2>2. Login Module</h2>
+<h2>	<a href="2_login_module.html">2. Login Module</a>	</h2>
 <ul>
-	<li><a href="2.1_login.html">2.1 Login</a></li>
-	<li><a href="2.2_profile.html">2.2 Changing Personal Information and Password</a></li>
+	<li><a href="2_login_module.html#2.1">2.1 Login</a></li>
+	<li><a href="2_login_module.html#2.2">2.2 Changing Personal Information and Password</a></li>
 </ul>
 
-<h2>3. User Management Module</h2>
+<h2>	<a href="3_user_management_module.html">3. User Management Module</a>	</h2>
 <ul>
-	<li><a href="3.1_register_user.html">3.1 Register New User</a></li>
-	<li><a href="3.2_update_user.html">3.2 Update User Information</a></li>
-	<li><a href="3.3_register_person.html">3.3 Register New Person</a></li>
-	<li><a href="3.4_update_person.html">3.4 Update Personal Information</a></li>
-	<li><a href="3.5_update_family_doctor.html">3.5 Update Patient's Family Doctor</a></li>
+	<li><a href="3_user_management_module.html#3.1">3.1 Register New User</a></li>
+	<li><a href="3_user_management_module.html#3.2">3.2 Update User Information</a></li>
+	<li><a href="3_user_management_module.html#3.3">3.3 Register New Person</a></li>
+	<li><a href="3_user_management_module.html#3.4">3.4 Update Personal Information</a></li>
+	<li><a href="3_user_management_module.html#3.5">3.5 Update Patient's Family Doctor</a></li>
 </ul>
 
+<h2>	<a href="4_report_generating_module.html">4. Report Generating Module</a>	</h2>
 <ul>
-	<li><a href="register_help.html">3.1 Registering New Users</a></li>
-	<li><a href="user_search_help.html">3.2 Finding Users</a></li>
-	<li><a href="update_user_help.html">3.3 Updating User Information</a></li>
-	<li><a href="family_doctor_help.html">3.4 Creating Family Doctor Relationships</a></li>
+	<li><a href="4_report_generating_module.html#4.1">4.1 Generate Report</a></li>
 </ul>
 
-<h2>4. Report Generating Module</h2>
+<h2>	<a href="5_uploading_module.html">5. Uploading Module</a></h2>
 <ul>
-<li><a href="report_form_help.html">4.1 Reports Form</a></li>
-<li><a href="report_results_help.html">4.2 Reports Results</a></li>
+	<li><a href="5_uploading_module.html#5.1">5.1 Enter a Radiology Record</a></li>
+	<li><a href="5_uploading_module.html#5.2">5.2 Upload Medical Images</a></li>
 </ul>
 
-<h2>5. Uploading Module</h2>
-<ul>
-<li><a href="upload_help.html">5.1 Creating Radiological Records and Uploading Images</a></li>
-</ul>
-
-<h2>6. Search Module</h2>
-<ul>
-<li><a href="search_help.html">6.1 Searching</a></li>
+<h2>	<a href="6_search_module.html">6. Search Module</a></h2>	<ul>
+	<li><a href="6_search_module.html#6.1">6.1 Search</a></li>
+	<li><a href="search_help.html">6.1 Searching</a></li>
 </ul>
 
 <h2>7. Data Analysis Module</h2>

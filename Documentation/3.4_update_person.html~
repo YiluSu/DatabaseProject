@@ -31,7 +31,7 @@
 
 <p><span class="code">* Note that the Email should be unique, which means that a person cannot have the same Email with any other perseon in our database.</span></p>
 
-<p>Click the "<span class="code">OK</span>" button to save the changes.</p>
+<p>Click the "<span class="code">UPDATE</span>" button to save the changes.</p>
 
 </body>
 </html>

@@ -13,7 +13,7 @@
 <body>
 
 <h1>Login</h1>
-	<p>Enter the <span class="code">User Name</span> and <span class="code">Password</span>, and click "LOGIN" button</p>
+	<p>Enter the <b>User Name</b> and <b>Password</b>, and click "LOGIN" button to login the system.</p>
 
 </body>
 </html>

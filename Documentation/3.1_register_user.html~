@@ -16,7 +16,7 @@
 <h1>Register New User</h1>
 
 <p>System administrators can register new users for the radiology information system.</p>
-<p>Clicking the "<span class="code">+User Account</span>" hyperlink will directe system administrators to the New User Register page.</p>
+<p>Clicking the "<b>+User Account</b>" hyperlink will directe system administrators to the New User Register page.</p>
 
 <p>You need to provide the following information:</p>
 
@@ -31,7 +31,7 @@
 
 ** <span class="code">Choose a Person from the database. See <a href="3.3_register_person.html">3.3 Register New Person</a> and <a href="3.4_update_person.html">3.4 Update Personal Information</a> for more information</span>.</p>
 
-<p>Click the "<span class="code">Add</span>" button to save the changes. Click the "<span class="code">cancel</span>" button to cancel the registration.</p>
+<p>Click the "<b">Add</b>" button to register. Click the "<b>cancel</b>" button to cancel the registration.</p>
 
 </body>
 </html>

@@ -16,7 +16,7 @@
 <h1>Update User Information</h1>
 
 <p>System administrators can update user information in the radiology information system.</p>
-<p>Enter the user name and click the "<span class="code">GO</span>" button. System administrators will be able to manage user's account. </p>
+<p>Enter the user name and click the "<b>GO</b>" button. System administrators will be able to manage user's account. </p>
 
 <p>You can change any of the following fields:</p>
 
@@ -28,7 +28,7 @@
 
 <p>* <span class="code">a, d, p, and r stand for Administrator, Doctor, Radiologist and Patient, respectively</span>.</br>
 
-<p>Click the "<span class="code">OK</span>" button to save the changes. Click the "cancel" button to cancel the registration.</p>
+<p>Click the "<span class="code">OK</span>" button to save the changes.</p>
 
 </body>
 </html>
