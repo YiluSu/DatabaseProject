@@ -17,10 +17,18 @@
 <h2>2. Login Module</h2>
 <ul>
 	<li><a href="2.1_login.html">2.1 Login</a></li>
-	<li><a href="2.2profile.html">2.2 Changing Personal Information and Password</a></li>
+	<li><a href="2.2_profile.html">2.2 Changing Personal Information and Password</a></li>
 </ul>
 
 <h2>3. User Management Module</h2>
+<ul>
+	<li><a href="3.1_register_user.html">3.1 Register New User</a></li>
+	<li><a href="3.2_update_user.html">3.2 Update User Information</a></li>
+	<li><a href="3.3_register_person.html">3.3 Register New Person</a></li>
+	<li><a href="3.4_update_person.html">3.4 Update Personal Information</a></li>
+	<li><a href="3.5_update_family_doctor.html">3.5 Update Patient's Family Doctor</a></li>
+</ul>
+
 <ul>
 	<li><a href="register_help.html">3.1 Registering New Users</a></li>
 	<li><a href="user_search_help.html">3.2 Finding Users</a></li>

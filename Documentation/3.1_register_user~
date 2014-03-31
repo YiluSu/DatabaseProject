@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register New User</title>
+</head>
+
+<body>
+
+<h1>Register New User</h1>
+<p>
+    Welcome to the help menu for the registation page
+</p>
+<p>This page allow you to registe a new user for the radiologis 
+system.</p>
+<p>You need to give the username, password and all the personal informations
+here.And choose one of the class of the new user.</p>
+<p>The username adn the eamial address are unique for the system.</p>
+
+<p>Then you can click the "Submit" button to send the registation.</p>
+</body>
+</html>

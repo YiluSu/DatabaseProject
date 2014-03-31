@@ -20,14 +20,12 @@
 	<li>First Name</li>
 	<li>Last Name</li>
 	<li>Address</li>
-	<li>Email</li>
+	<li>Email*</li>
 	<li>Phone</li>
 	<li>Password</li>
 </ul>
 
-
-<p><span class="code">*Note that your Email should be unique, which means that you cannot have the same Email with any other users in our database.</span></p>
-
+<p><span class="code">* Note that your Email should be unique, which means that you cannot have the same Email with any other users in our database.</span></p>
 
 <p>Click the "UPDATE" button at the bottom to save the changes.</p>
 
